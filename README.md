@@ -1,3 +1,4 @@
+
 # ActiveJob::TrafficControl [![Build Status](https://travis-ci.org/nickelser/activejob-traffic_control.svg?branch=master)](https://travis-ci.org/nickelser/activejob-traffic_control) [![Code Climate](https://codeclimate.com/github/nickelser/activejob-traffic_control/badges/gpa.svg)](https://codeclimate.com/github/nickelser/activejob-traffic_control) [![Test Coverage](https://codeclimate.com/github/nickelser/activejob-traffic_control/badges/coverage.svg)](https://codeclimate.com/github/nickelser/activejob-traffic_control) [![Gem Version](https://badge.fury.io/rb/activejob-traffic_control.svg)](http://badge.fury.io/rb/activejob-traffic_control)
 
 Rate controls for your `ActiveJob`s, powered by [Suo](https://github.com/nickelser/suo), a distributed semaphore library backed by Redis or Memcached.
